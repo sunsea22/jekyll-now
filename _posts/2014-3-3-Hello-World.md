@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fist Blog Test
+title: Blog program guide
 ---
 
 This is a demo of all styled elements in Jekyll Now.
